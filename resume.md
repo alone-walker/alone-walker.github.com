@@ -6,8 +6,8 @@ title:  "Resume"
 ##技术
 嵌入式系统C开发  
 Linux VFS 和 Network Stack, 熟悉ext2文件系统和网卡驱动  
-IP网络协议,无线通讯 
-OpenGL图形处理 
+IP网络协议,无线通讯  
+OpenGL图形处理  
 
 ##语言与工具
 C, C++, python, lua,java  
