@@ -30,7 +30,7 @@ gcc, gdb, make, vim,`visual studio c++
 
 ###中国数码 工程师 2007 -- 2010  
 金融通讯协议解析及数据本地化存储,网络数据挖掘与解析  
-Http代理服务器实现  
+http代理服务器实现  
 技术: c++, stl, socket, libxml, mmap, http
 
 ###奥克斯达 工程师 2006 -- 2007
