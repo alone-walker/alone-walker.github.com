@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Resume"
+title:  "简历"
 ---
 
 ##技术   
