@@ -5,13 +5,13 @@ title:  "Resume"
 
 ##技术
 嵌入式系统开发  
-linux kernel: vfs, IP network stack  
+linux kernel: vfs, ipv6 network stack  
 tcp/ip网络通信  
 opengl图形处理   
 
 ##语言与工具
 c, c++, python, java, lua  
-gcc, gdb, make, vim,`visual studio c++  
+gcc, gdb, make, vim, visual studio c++  
 
 ##教育背景
 西安电子科技大学 机械设计及制造专业   
@@ -19,7 +19,7 @@ gcc, gdb, make, vim,`visual studio c++
 
 ##工作经历 <br><br /> 
 ###敏锐德 高级工程师 2011 -- 2013 
-手机平台下java虚拟机的移植及维护,实现了文件、网络、nfc、gps等系统接口模块  
+手机平台下java虚拟机的移植及维护,实现了文件、网络、nfc、gps等模块   
 网络文档下载脚本等辅助工具  
 技术: java虚拟机, 嵌入式系统, j2me  
 
