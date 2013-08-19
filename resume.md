@@ -4,9 +4,10 @@ title:  "简历"
 ---
 
 ##技术   
-嵌入式系统开发   
-linux kernel: vfs, ipv6 network stack   
-tcp/ip网络通信    
+嵌入式系统  
+linux kernel: vfs, ipv6 protocol stack   
+tcp/ip socket通信    
+多线程程序       
 opengl图形处理      
 
 ##语言与工具  
@@ -19,7 +20,7 @@ gcc, gdb, make, vim, visual studio c++
 ##工作经历<br><br />
 ###敏锐德 高级工程师 2011 -- 2013
 手机平台下java虚拟机的移植与维护,实现了文件、网络、nfc、gps等模块   
-技术: embeded c programming, java vm, j2me  
+技术: embeded system c programming, java vm, j2me  
 
 ###中科方德 高级工程师 2009 -- 2010
 postfix邮件系统的邮件过滤、pki加密签名功能   
