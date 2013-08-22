@@ -5,7 +5,7 @@ title:  "简历"
 
 ##技术   
 嵌入式系统   
-linux kernel: vfs, ipv6 protocol stack   
+linux kernel: vfs, IPv6 protocol stack   
 网络通信: tcp/ip udp socket    
 opengl图形处理       
 
@@ -38,10 +38,7 @@ http代理服务器
 自动生产线的设备维护,熟悉欧姆龙、三菱等多种plc    
 
 ##读过的开源项目    
-        
-* stl: c++标准模版库   
-* xv6: MIT6.828教学操作系统   
-* lua: 脚本语言   
-* linux: 开源操作系统, 熟悉文件系统与ip网络模块     
-
-
+> stl: c++标准模版库   
+> xv6: MIT6.828教学操作系统   
+> lua: 脚本语言   
+> linux: 开源操作系统, 熟悉文件系统与IP网络模块     
