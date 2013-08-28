@@ -25,14 +25,10 @@ gcc, gdb, make, vim, visual studio c++
 postfix邮件系统的邮件过滤、pki加密签名功能   
 技术: linux c programming, glibc, rsa, openssl  
 
-###中国数码 工程师 2007 -- 2010
+###中国数码 工程师 2006 -- 2009
 金融通讯协议解析, 网络数据挖掘   
 http代理服务器   
 技术: c++, stl, boost, socket, libxml, mmap, http  
-
-###奥克斯达 工程师 2006 -- 2007
-克里金插值算法, 地震数据三维建模      
-技术: c++, stl, opengl   
 
 ###力神电池股份有限公司 工程师  2002 -- 2005
 自动生产线的设备维护,熟悉欧姆龙、三菱等多种plc    
