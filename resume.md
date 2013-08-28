@@ -25,17 +25,18 @@ gcc, gdb, make, vim, visual studio c++
 postfix邮件系统的邮件过滤、pki加密签名功能   
 技术: linux c programming, glibc, rsa, openssl  
 
-###中国数码 工程师 2006 -- 2009
-金融通讯协议解析, 网络数据挖掘   
-http代理服务器   
-技术: c++, stl, boost, socket, libxml, mmap, http  
+###中国数码 工程师 2006 -- 2009    
+金融通讯协议实现    
+html数据解析    
+http代理服务器          
+技术: c++, stl, boost, socket, libxml, mmap, http     
 
-###力神电池股份有限公司 工程师  2002 -- 2005
+###力神电池股份有限公司 工程师  2002 -- 2005     
 自动生产线的设备维护,熟悉欧姆龙、三菱等多种plc    
 
 ##读过的开源项目    
 > stl: c++标准模版库   
 > xv6: MIT6.828教学操作系统   
 > lua: 脚本语言   
-> linux: 开源操作系统, 熟悉文件系统与IP网络模块     
+> linux: 开源操作系统, 熟悉文件系统与IP网络模块        
 > rfc: 阅读过大量的关于IP协议的rfc文档  
