@@ -6,7 +6,7 @@ title:  "简历"
 ##技术   
 嵌入式系统   
 linux kernel: vfs, IPv6 protocol stack   
-网络通信: tcp/ip udp socket    
+网络通信: tcp/ip protocol, socket    
 opengl图形处理       
 
 ##语言与工具  
