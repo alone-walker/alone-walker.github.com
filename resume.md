@@ -39,4 +39,5 @@ http代理服务器
 > xv6: MIT6.828教学操作系统   
 > lua: 脚本语言   
 > linux: 开源操作系统, 熟悉文件系统与IP网络模块        
+> goagent: python实现的http代理   
 > rfc: 阅读过大量的关于IP协议的rfc文档  
