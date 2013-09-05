@@ -160,6 +160,11 @@ ul.posts span {
   background-color: #333;
 }
 
+.post table {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
 /*
 .post {
     padding-top: 12px;
