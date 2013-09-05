@@ -129,6 +129,10 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+.post {
+    padding-top: 12px;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -163,10 +167,5 @@ ul.posts span {
 .post table {
     padding-top: 12px;
     padding-bottom: 12px;
+    font-weight: normal;
 }
-
-/*
-.post {
-    padding-top: 12px;
-}
-*/
