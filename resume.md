@@ -3,11 +3,10 @@ layout: default
 title:  "简历"
 ---
 <br>
-<div style="text-align:left">
+<div style="text-align:left;border-bottom:1px solid;padding-bottom:16px">
     <span style="font-size:300%;position:absolute"><br>刘卫</span>
-    <span style="font-size:80%;position:relative;left:240px">邮箱: wartalker@gmail.com<br>电话: 13701680238<br>住址: 浦东新区金葵新城</span>
+    <span style="font-size:80%;position:relative;left:300px">邮箱: wartalker@gmail.com<br>电话: 13701680238<br>住址: 浦东新区金葵新城</span>
 </div>
-**********
 <br>
 
 ##技术   
