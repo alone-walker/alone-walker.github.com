@@ -2,6 +2,13 @@
 layout: default
 title:  "简历"
 ---
+<br>
+<div style="text-align:left">
+    <span style="font-size:32pt;position:absolute"><br>刘卫</span>
+    <span style="font-size:10pt;position:relative;left:240px">邮箱: wartalker@gmail.com<br>电话: 13701680238<br>住址: 浦东新区金葵新城</span>
+</div>
+**********
+<br>
 
 ##技术   
 嵌入式系统   
