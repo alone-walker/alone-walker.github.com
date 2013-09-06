@@ -2,12 +2,10 @@
 layout: default
 title:  "简历"
 ---
-<br>
-<div style="text-align:left;border-bottom:1px solid;padding-bottom:16px">
-    <span style="font-size:300%;position:absolute"><br>刘卫</span>
-    <span style="font-size:80%;position:relative;left:300px">邮箱: wartalker@gmail.com<br>电话: 13701680238<br>住址: 浦东新区金葵新城</span>
-</div>
-<br>
+<p style="position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
+    <span style="font-size:300%;position:absolute;left:0px;"><br>刘卫</span>
+    <span style="font-size:80%;">邮箱: wartalker@gmail.com<br>电话: 13701680238<br>住址: 浦东新区金葵新城</span>
+</p>
 
 ##技术   
 嵌入式系统   
@@ -22,7 +20,7 @@ gcc, gdb, make, vim, visual studio c++
 ##教育背景
 西安电子科技大学 机械设计及制造专业   
 
-##工作经历<br><br />
+##工作经历<br /><br />
 ###敏锐德 高级工程师 2011 -- 2013
 手机平台下java虚拟机的移植与维护,实现了文件、网络、nfc、gps等模块   
 技术: embeded system c programming, java vm, j2me  
