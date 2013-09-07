@@ -26,7 +26,10 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
+/*
 a         { color: #00a; }
+*/
+a         { color: #333; }
 a:hover   { color: #000; }
 /*
 a:visited { color: #a0a; }
@@ -111,9 +114,11 @@ ul.posts span {
   margin-right: 3em;
 }
 
+/*
 .site .footer .contact a {
   color: #8085C1;
 }
+*/
 
 .site .footer .rss {
   margin-top: 1.1em;
