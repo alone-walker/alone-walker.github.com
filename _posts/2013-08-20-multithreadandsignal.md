@@ -20,7 +20,7 @@ categories: c multithread
 1. sigaction   
 sigaction可以注册用户自定义的信号处理函数。要注意的是在信号处理函数中使用多线程的同步相关的函数，结果是为定义的，所以要慎重。
         
-2. pthread_sigmask将信号block，然后用sigwait在一个单独的线程中处理。   
+2. pthread_sigmask将信号阻塞，然后用sigwait在一个单独的线程中处理。   
             
 ###示例代码:    
 github: [https://github.com/wartalker/c-small-programe/tree/master/mt-signal](https://github.com/wartalker/c-small-programe/tree/master/mt-signal)     
