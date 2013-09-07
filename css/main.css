@@ -145,26 +145,40 @@ ul.posts span {
 }
 
 #ks {
+    /*
     width: 180px;
     height: 80px;
+    */
     text-align: center;
     border-style: solid;
     border-width: 4px;
     border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 4px;
+    padding-right:4px;
+    width: -moz-fit-content;
+    display: inline-block;
 }
 
 #kiss {
-    font-size: 48px;
     font-family: Liberation Serif, Microsoft YaHei, Roboto Condensed; 
-    font-weight: 800;
+    font-size: 48px;
+    font-weight: 600;
+    padding: 0px;
     margin: 0px;
-    margin-top: 16px;
+    margin-top: 14px;
+    margin-bottom: 6px;
 }
 
 #stupid {
+    font-family: Microsoft YaHei;
     font-size: 12px;
     font-weight: 600;
-    font-family: Microsoft YaHei;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 6px;
+    margin-bottom: 8px;
 }
 
 /*****************************************************************************/
