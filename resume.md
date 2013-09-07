@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: blank
 title:  "简历"
 ---
-<p style="position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
+<p style="font-size:12px;position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
     <span style="font-size:50px;position:absolute;left:0px;top:32px;color:#585858">刘卫</span>
-    <span style="font-size:12px">邮箱: wartalker@gmail.com<br />电话: 13701680238<br />住址: 浦东新区金葵新城</span>
+    邮箱: wartalker@gmail.com<br />电话: 13701680238<br />住址: 浦东新区金葵新城
 </p>
 
 ##技术   
@@ -49,3 +49,21 @@ http代理服务器
 
 ##个人项目
 github: [www.github.com/wartalker](http://www.github.com/wartalker/)
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
