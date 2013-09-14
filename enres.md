@@ -20,7 +20,7 @@ c， c++， java， python， lua
 ###Education    
 1998.7-2002.7 Mechanical Manufacturing and Automation，Xidian University    
     
-###Employment    
+###Employment    <br /><br />
 ####MyriadMobileSoftware Engineer 2011--2013     
 Jbed java VM porting and maintenance for mobile system    
 Skills: java vm, mobile oprating system, j2me    
@@ -39,7 +39,6 @@ Skills: c++, stl, socket, libxml, http protocol
     
 ####LiShenBattery Engineer 2002--2005   
 Battery automatic line maintenance    
-    
     
 ###Readed open source projects    
 stl: c++ standard template library    

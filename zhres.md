@@ -20,7 +20,7 @@ gcc, gdb, make, vim, visual studio c++
 ##教育背景
 西安电子科技大学 机械设计及制造专业   
 
-##工作经历   
+##工作经历   <br /><br />
 ###敏锐德 高级工程师 2011 -- 2013
 手机平台下java虚拟机的移植与维护,实现了文件、网络、nfc、gps等模块   
 技术: embeded system c programming, java vm, j2me  
