@@ -1,6 +1,6 @@
 ---
 layout: blank
-title:  "CV"
+title:  "resume"
 ---
 <p style="font-size:12px;position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
     <span style="font-size:50px;position:absolute;left:0px;top:32px;color:#585858">LiuWei</span>
@@ -14,8 +14,8 @@ network: tcp/ip protocol, socket
 opengl for 3D programing    
     
 ###Languages and Tools    
-visual studio， gcc, gdb， make, vim    
 c， c++， java， python， lua    
+gdb， make, vim, visual studio    
     
 ###Education    
 1998.7-2002.7 Mechanical Manufacturing and Automation，Xidian University    
@@ -24,7 +24,6 @@ c， c++， java， python， lua
 ####MyriadMobileSoftware Engineer 2011--2013     
 Jbed java VM porting and maintenance for mobile system    
 Skills: java vm, mobile oprating system, j2me    
-    
     
 ####NFS-China Engineer 2009--2011    
 Secured E-mail systems deployment and development    
