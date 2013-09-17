@@ -261,5 +261,10 @@ ul.posts span {
 }
 
 .post h3 {
-    margin-top: 2em;
+    margin-top: 1em;
+}
+
+.post pre {
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
