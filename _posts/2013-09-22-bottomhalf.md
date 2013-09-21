@@ -20,4 +20,4 @@ categories: ip driver
 
 
 ###softirqd
->  softirq的处理时间过长的话，可以reactive，即重新调度。但是这样持续允许的话，其他的进程将无法得到cpu，形成饥饿状态。所以内核提供了专门处理reactive的softirq，即softirqd。softirqd是per cpu的，每个cpu都运行一个softirqd的实例
+>  softirq的处理时间过长的话，可以reactive，即重新调度。但是这样持续运行的话，其他的进程将无法得到cpu，形成饥饿状态。所以内核提供了专门处理reactive的线程，即softirqd。softirqd是per cpu的，每个cpu都运行一个softirqd的实例
