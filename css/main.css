@@ -263,9 +263,8 @@ ul.posts span {
 }
 
 #panic {
-    font-family: Tahoma, Microsoft YaHei;
+    font-family: Microsoft YaHei, Tahoma;
     font-size: 45px;
     line-height: 48px;
     color: #FFF;
 }
-
