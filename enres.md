@@ -9,7 +9,7 @@ title:  "resume"
 
 ###Skills   
 c programming for embedded systems        
-linux kernel: vfs and IP protocol stack         
+linux kernel: vfs, IP protocol stack, network driver         
 network: tcp/ip protocol, socket    
 opengl for 3D programing    
     
