@@ -8,7 +8,7 @@ title:  "resume"
 </p>
 
 ###Skills   
-c programing for embedded systems        
+c programming for embedded systems        
 linux kernel: vfs and IP protocol stack         
 network: tcp/ip protocol, socket    
 opengl for 3D programing    
@@ -23,7 +23,7 @@ gdb， make, vim, visual studio
 ###Employment    <br /><br />
 ####MyriadMobileSoftware Engineer 2011--2013     
 Jbed java VM porting and maintenance for mobile system    
-Skills: java vm, mobile oprating system, j2me    
+Skills: java vm, mobile operating system, j2me    
     
 ####NFS-China Engineer 2009--2011    
 Secured E-mail systems deployment and development    
@@ -31,7 +31,7 @@ E-mail filter plugin for postfix mail system
 Skills: linux c programming, rsa algorithm, openssl    
     
 ####Shino-iTechnology Engineer 2005--2009    
-Implemented financial data  transmiting, parsing and serialization functions for CaiXun client    
+Implemented financial data  transmitting and parsing functions for CaiXun client    
 Html crawl and xml file parsing    
 Implemented http proxy for browser    
 Skills: c++, stl, socket, libxml, http protocol    
