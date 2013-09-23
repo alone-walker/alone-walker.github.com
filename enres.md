@@ -39,7 +39,7 @@ Skills: c++, stl, socket, libxml, http protocol
 ####LiShenBattery Engineer 2002--2005   
 Battery automatic line maintenance    
     
-###Readed open source projects    
+###Open source projects have read    
 stl: c++ standard template library    
 xv6: mit operating system for 6.828    
 lua: script language    
