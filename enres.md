@@ -11,7 +11,7 @@ title:  "resume"
 c programming for embedded systems        
 linux kernel: vfs, IP protocol stack, network driver         
 network: tcp/ip protocol, socket    
-opengl for 3D programing    
+opengl for 3D programming    
     
 ###Languages and Tools    
 c， c++， java， python， lua    
