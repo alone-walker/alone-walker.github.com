@@ -19,5 +19,5 @@ bottom half是指将系统中断中一些次要的任务延迟处理，主要是
    work queue是与softirq完全不同的机制，通过kernel thread实现，最大的优点是可以阻塞或者睡眠，因为kernel thread可以与普通进程一样调度           
 
 
-###softirqd    
-softirq的处理任务多的话，可以重复执行。但是这样持续运行的话，其他的进程将无法得到cpu，形成饥饿状态。所以内核提供了专门处理这种情况的kernel thread，即softirqd。softirqd是per cpu的，每个cpu都运行一个softirqd的实例，但是softirqd中运行的任务都是softirq执行一遍后新增加的那部分     
+###ksoftirqd    
+softirq的处理任务多的话，可以重复执行。但是这样持续运行的话，其他的进程将无法得到cpu，形成饥饿状态。所以内核提供了专门处理这种情况的kernel thread，即ksoftirqd。ksoftirqd是per cpu的，每个cpu都运行一个ksoftirqd的实例，但是ksoftirqd中运行的任务都是softirq执行一遍后新增加的那部分     
