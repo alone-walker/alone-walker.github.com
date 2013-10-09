@@ -1,0 +1,81 @@
+\documentclass[10pt,a4paper, noblankpage]{moderncv}
+
+% moderncv themes
+\moderncvtheme[blue]{classic}                % idem
+
+% character encoding
+\usepackage{fontspec, xunicode, xltxtra}
+\setmainfont[Mapping=tex-text]{Microsoft YaHei}
+\setsansfont[Mapping=tex-text]{Microsoft YaHei}
+\XeTeXlinebreaklocale "zh"
+\widowpenalty=10000
+
+% adjust the page margins
+\usepackage[scale=0.85]{geometry}
+\AtBeginDocument{\recomputelengths}
+
+% personal data
+\firstname{刘卫}\familyname{}
+\title{\small \ \ KISS \& DRY}
+%\title{简历}
+\address{上海市浦东新区}{金葵新城}
+\mobile{13701680238}
+%\phone{010-12345678}
+\email{wartalker@gmail.com}
+%\extrainfo{群众}
+%\photo[64pt]{wartalker.jpg}
+
+\nopagenumbers{}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+\section{技术}
+\cvline{}{嵌入式系统c开发}
+\cvline{}{linux kernel: vfs, IP protocol stack, network driver}
+\cvline{}{网络通信: tcp/ip protocol, socket}
+\cvline{}{opengl图形处理}
+%%\cvline{}{PLC工控程序开发}
+%%\cvline{}{}
+
+\section{语言与工具}
+\cvline{}{c， c++， python，java, lua}
+\cvline{}{gcc, gdb，make, vim, visual studio c++}
+%%\cvline{}{}
+
+\section{教育背景}
+\cvline{}{西安电子科技大学 机械设计及制造专业} 
+%%\cvline{}{}
+
+\section{工作经历}
+\cvline{}{}
+\cventry{2011--2013}{敏锐德}{高级工程师}{}{}{}
+\cvline{}{手机平台下java虚拟机的移植与维护,实现了文件、网络、nfc、gps等模块}
+\cvline{}{技术: embedded system c programming, JVM, j2me}
+\cvline{}{}
+\cventry{2009--2010}{中科方德}{高级工程师}{}{}{}
+\cvline{}{扩展开发了postfix邮件服务的邮件过滤、加密签名等功能}
+\cvline{}{PKI USB Token的RSA加解密算法实现}
+\cvline{}{技术: linux c programming, glibc, rsa, openssl}
+\cvline{}{}
+\cventry{2005--2009}{中国数码}{工程师}{}{}{}
+\cvline{}{金融通讯协议实现}
+\cvline{}{html数据解析}
+\cvline{}{http代理服务器}
+\cvline{}{技术: c++, stl, boost, socket, libxml, mmap, http }
+\cvline{}{}
+\cventry{2002--2005}{力神电池股份有限公司}{工程师}{}{}{}
+\cvline{}{自动生产线的设备维护，熟悉欧姆龙、三菱等多种PLC}
+\cvline{}{}
+
+\section{读过的开源项目}
+\cvline{}{stl, xv6, lua, linux kernel, goagent}
+%%\cvline{}{}
+\section{个人项目}
+\cvline{}{Github: \href{https://github.com/wartalker} {https://github.com/wartalker}}
+
+\end{document}
+
+%% end of file `resume.tex'.

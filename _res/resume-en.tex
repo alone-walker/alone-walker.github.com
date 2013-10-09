@@ -1,0 +1,92 @@
+\documentclass[10pt,a4paper, noblankpage]{moderncv}
+
+% moderncv themes
+\moderncvtheme[blue]{classic}                % idem
+
+% character encoding
+\usepackage{fontspec, xunicode, xltxtra}
+%\setmainfont[Mapping=tex-text]{Microsoft YaHei}
+%\setsansfont[Mapping=tex-text]{Microsoft YaHei}
+%\XeTeXlinebreaklocale "zh"
+\widowpenalty=10000
+
+% adjust the page margins
+\usepackage[scale=0.85]{geometry}
+\AtBeginDocument{\recomputelengths}
+
+% personal data
+\firstname{Wei}\familyname{Liu}
+\title{\small \ \ KISS \& DRY}
+%\brief{\small{天道酬勤}}
+%\title{简历}
+\address{ShangHai PuDongXinQu}{Jin Kui Road}
+\mobile{13701680238}
+%\phone{010-12345678}
+\email{wartalker@gmail.com}
+%\extrainfo{群众}
+%\photo[64pt]{wartalker.jpg}
+%\quote{采菊东篱下，悠然见南山。}
+
+\nopagenumbers{}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Skills}
+
+\cvline{}{c programming for embedded system}
+\cvline{}{linux kernel: vfs, IP protocol stack, network driver}
+\cvline{}{network: tcp/ip protocol, socket}
+\cvline{}{opengl for 3D programing}
+%%\cvline{}{}
+
+\section{Languages and Tools}
+\cvline{}{c， c++， java， python， lua}
+\cvline{}{visual studio， gcc, gdb， make, vim}
+%%\cvline{}{}
+
+\section{Education}
+\cvline{}{1998.7-2002.7 Mechanical Manufacturing and Automation，Xidian University}
+%%\cvline{}{}
+
+\section{Employment}
+\cvline{}{}
+
+\cventry{2011--2013}{Myriad mobile software}{Software Engineer}{}{}{}
+\cvline{}{Jbed JVM porting and maintenance for MTK mobile system}
+\cvline{}{Implemented file, network, GPS, NFC native interface modules for JVM}
+\cvline{}{Skills: JVM, MTK mobile operating system, j2me}
+\cvline{}{}
+
+\cventry{2009--2010}{NFS-China}{Software Engineer}{}{}{}
+\cvline{}{Email system deployment and development}
+\cvline{}{Email filter plugin for postfix mail system}
+\cvline{}{IE plugins for mail encryption and mail signature}
+\cvline{}{Skills: linux c programming, rsa algorithm, openssl}
+\cvline{}{}
+
+\cventry{2005--2009}{Sino-i Technology}{Software Engineer}{}{}{}
+\cvline{}{Implemented financial data  transmitting and parsing functions for CaiXun client}
+\cvline{}{Html files crawl and xml parsing}
+\cvline{}{Implemented http proxy server}
+\cvline{}{Skills: c++, stl, socket, libxml}
+\cvline{}{}
+
+\cventry{2002--2005}{LiShen Battery}{Power Engineer}{}{}{}
+\cvline{}{Battery automatic line maintenance}
+\cvline{}{Skills: Omron and Mitsubishi PLC programming}
+
+\section{Open source projects have read}
+\cvline{}{stl, xv6, lua, linux kernel, rfc documents}
+%%\cvline{}{}
+
+\section{Personal projects}
+\cvline{}{Github: \href{https://github.com/wartalker} {https://github.com/wartalker}}
+%%\cvline{}{}
+
+\end{document}
+
+%% end of file `resume.tex'.
