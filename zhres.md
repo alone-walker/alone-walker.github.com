@@ -8,10 +8,10 @@ title:  "简历"
 </p>
 
 ##技术   
-嵌入式系统   
-linux kernel: vfs, IP protocol stack, network driver   
-网络通信: tcp/ip protocol, socket    
+嵌入式系统c开发   
+linux内核:文件系统,tcp/ip协议栈,网卡驱动      
 opengl图形处理       
+扎实的算法与数据结构基础     
 
 ##语言与工具  
 c, c++, python, java, lua, lisp    
