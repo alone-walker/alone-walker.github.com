@@ -4,7 +4,7 @@ title:  "resume"
 ---
 <p style="font-size:12px;position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
     <span style="font-size:50px;position:absolute;left:0px;top:32px;color:#585858">LiuWei</span>
-    mail: wartalker@gmail.com<br />phone: 13701680238<br />address: PuDong JinKuiXinCheng
+    mail: wartalker@gmail.com<br />phone: 13701680238<br />address: BeiJing     
 </p>
 
 ###Skills   
