@@ -4,7 +4,7 @@ title:  "简历"
 ---
 <p style="font-size:12px;position:relative;text-align:right;border-bottom:1px solid;padding-bottom:16px;padding-right:12px">
     <span style="font-size:50px;position:absolute;left:0px;top:32px;color:#585858">刘卫</span>
-    邮箱: wartalker@gmail.com<br />电话: 18813111980<br />住址: 北京       
+    邮箱: wartalker@gmail.com<br/>电话: 18813111980<br/>住址: 北京       
 </p>
 
 ##技术   
@@ -20,7 +20,7 @@ gcc, gdb, make, vim, visual studio c++
 ##教育背景
 西安电子科技大学 机械设计及制造专业   
 
-##工作经历   <br /><br />
+##工作经历   <br/><br/>
 ###敏锐德 高级工程师 2011 -- 2013
 MTK平台的Jbed java虚拟机的开发与维护，主要工作内容有： 虚拟机的内存资源管理，虚拟机与系统的通信及同步控制，虚拟机与系统的IO接口层，包括文件，网络，GPS等模块，我主要参与了IO接口层的开发及后续的维护和bug修改工作，在工作期间用ruby做过一些html解析及文档下载的辅助开发工具        
 技术: embeded system c programming, java vm, j2me  
@@ -49,21 +49,21 @@ MTK平台的Jbed java虚拟机的开发与维护，主要工作内容有： 虚�
 github: [www.github.com/wartalker](http://www.github.com/wartalker/)
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
