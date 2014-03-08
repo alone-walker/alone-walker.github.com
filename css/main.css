@@ -66,7 +66,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 43em;
+  width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -202,8 +202,10 @@ ul.posts span {
 }
 
 .post pre {
+/*
   border: 1px solid #ddd;
   background-color: #eef;
+*/
   padding: 0 .4em;
   margin-top: 2px;
   margin-bottom: 2px;
@@ -215,8 +217,10 @@ ul.posts span {
 }
 
 .post code {
+/*
   border: 1px solid #ddd;
   background-color: #eef;
+*/
   padding: 0 .2em;
 }
 
