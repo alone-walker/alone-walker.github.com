@@ -8,19 +8,18 @@ title:  "简历"
 </p>
 
 ##技术    
-linux内核:tcp/ip协议栈,sctp网络协议,网卡驱动,文件系统    
+linux内核: tcp/ip协议栈,sctp网络协议,网卡驱动,文件系统    
 扎实的算法与数据结构基础    
-opengl图形处理    
 
 ##语言与工具    
 c, python, bash, c++, java, ruby, lua, lisp    
 gcc, gdb, make, vim, visual studio c++    
 
-##教育背景
+##教育背景    
 西安电子科技大学 机械设计及制造专业    
 
 ##工作经历   <br/><br/>
-### 红帽工程师 2014 -- 2015
+###红帽 工程师 2014 -- 2015
 linux内核网络协议(tcp,udp,sctp)测试，主要工作有：熟悉内核网络模块的实现，自动化测试脚本开发    
 技术：bash script, python script, c programming    
 
