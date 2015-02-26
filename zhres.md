@@ -21,7 +21,8 @@ gcc, gdb, make, vim, visual studio c++
 
 ##工作经历   <br/><br/>
 ### 红帽工程师 2014 -- 2015
-linux内核网络协议(tcp,udp,sctp)测试: 自动化测试脚本开发    
+linux内核网络协议(tcp,udp,sctp)测试，主要工作有：熟悉内核网络模块的实现，自动化测试脚本开发    
+技术：bash script, python script, c programming    
 
 ###敏锐德 工程师 2011 -- 2014
 MTK平台的Jbed java虚拟机的开发与维护，主要工作内容有： 虚拟机的内存资源管理，虚拟机与系统的通信及同步控制，虚拟机与系统的IO接口层，包括文件，网络，GPS等模块，我主要参与了IO接口层的开发及后续的维护和bug修改工作，在工作期间用ruby做过一些html解析及文档下载的辅助开发工具    
