@@ -75,7 +75,7 @@ title:  "简历"
 
   <li><h2>个人项目</h2>
       <ul class="s2">
-          <li><a href="http://www.github.com/wartalker/">github: [www.github.com/wartalker/]</a></li>
+          <li>github: <a href="http://www.github.com/wartalker/">www.github.com/wartalker/</a></li>
       </ul>
   </li>
   <br />
