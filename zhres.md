@@ -67,8 +67,8 @@ title:  "简历"
           <li>lua: 熟悉脚本语言的实现</li>
           <li>stl: c++标准模版库</li>
           <li>xv6: MIT6.828教学操作系统</li>
-          <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
           <li>scapy: python实现的交互式的网络数据包处理程序
+          <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
        </ul>
   </li>
   <br />
