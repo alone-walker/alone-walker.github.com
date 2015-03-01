@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: zhresume
 title:  "简历"
 ---
 
@@ -12,7 +12,6 @@ title:  "简历"
 	  <li>熟悉多种脚本语言,工作中用过python,bash,ruby等脚本语言
       </ul>
   </li>
-  <br />
 
    <li><h2>语言与工具</h2>
        <ul class="s2">
@@ -20,7 +19,6 @@ title:  "简历"
           <li>gcc, gdb, make, bash, vim, vc++</li>
 	</ul>
    </li>
-   <br />
 
   <li><h2>工作经历</h2>
       <ul class="s2">
@@ -59,7 +57,6 @@ title:  "简历"
 	  </li>
       </ul>
   </li>
-  <br />
 
   <li><h2>熟悉的开源项目</h2>
        <ul class="s2">
@@ -71,14 +68,12 @@ title:  "简历"
           <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
        </ul>
   </li>
-  <br />
 
   <li><h2>个人项目</h2>
       <ul class="s2">
           <li>github: <a href="http://www.github.com/wartalker/">www.github.com/wartalker/</a></li>
       </ul>
   </li>
-  <br />
 
   <li><h2>教育背景</h2>
       <ul class="s2">

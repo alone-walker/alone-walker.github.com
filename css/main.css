@@ -214,13 +214,13 @@ ul.posts span {
 }
 
 
-.resume h2 {
+.zhresume h2 {
     font-weight: bold;
     font-size: 130%;
     margin-bottom: 0.4em;
 }
 
-.resume h3 {
+.zhresume h3 {
     font-weight: normal;
     font-size: 110%;
     margin-top: 0.8em;
@@ -229,6 +229,10 @@ ul.posts span {
 .s1 {
   list-style-type: none;
   margin-left: 2em;
+}
+
+.s1 > li {
+    margin-bottom: 1.2em;
 }
 
 .s2 {
@@ -241,4 +245,16 @@ ul.posts span {
   list-style-type: none;
   margin-left: 0em;
   line-height: 1.8em;
+}
+
+.enresume h2 {
+    font-weight: normal;
+    font-size: 130%;
+    margin-bottom: 0.4em;
+}
+
+.enresume h3 {
+    font-weight: normal;
+    font-size: 120%;
+    margin-top: 0.8em;
 }
