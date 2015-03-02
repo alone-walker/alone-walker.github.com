@@ -7,8 +7,8 @@ title:  "resume"
   <li><h2>Skills</h2>
       <ul class="s2">
           <li>c programming on linux system</li>
-          <li>linux kernel: vfs,  network stack(tcp, udp, sctp)</li>
-          <li>network: tcp/ip protocol, socket</li>
+          <li>linux kernel: vfs,  network stack(tcp, udp, sctp), file system</li>
+          <li>network: socket for c and python</li>
           <li>opengl for 3D programming</li>
       </ul>
   </li>
@@ -45,7 +45,7 @@ title:  "resume"
 
          <li><h3>Shino-iTechnology 2005--2009</h3>
 	     <ul class="s3">
-                 <li>Implemented financial data  transmitting and parsing functions for CaiXun client Html crawl and xml file parsing Implemented http proxy for browser</li>
+                 <li>Implemented financial data  transmitting and parsing functions for CaiXun client</li>
                  <li>Skills: c++, stl, socket, libxml, http protocol</li>
              </ul>
 	 </li>
