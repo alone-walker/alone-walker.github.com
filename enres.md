@@ -25,7 +25,7 @@ title:  "resume"
       <ul class="s2">
          <li><h3>Redhat 2011--2013</h3>
 	     <ul class="s3">
-	         <li>Network protocol of RHEL linux kernel test: Tcp, Udp, Sctp</li>
+	         <li>Network protocol test for RHEL linux kernel: Tcp, Udp, Sctp</li>
 		 <li>Skills: bash, python, c</li>
              </ul>
 	 </li>
