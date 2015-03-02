@@ -38,7 +38,7 @@ title:  "简历"
 
           <li><h3>中科方德&nbsp&nbsp&nbsp&nbsp&nbsp2009 -- 2010</h3>
 	      <ul class="s3">
-	          <li>公司主要产品为加密邮件系统，该系统在开源邮件系统postfix的基础上扩展开发了邮件签名及加密功能.我主要负责了用于邮件签名的IE浏览器插件和postfix接收邮件时邮件签名验证的功能开发部分,熟悉了pki加密体系及IE插件开发流程,对postfix系统架构有一定了解,并有用python做过qmail邮件系统到postfix邮件系统的用户迁移工作
+	          <li>公司主要产品为加密邮件系统，该系统在开源邮件系统postfix的基础上扩展开发了邮件签名及加密功能.我主要负责了用于邮件签名的IE浏览器插件和postfix接收邮件时邮件签名验证的功能开发部分,熟悉了pki加密体系及IE插件开发流程,对postfix系统架构有一定了解,并用python做过qmail邮件系统到postfix邮件系统的用户迁移工作
 		  </li>
 	      </ul>
 	   </li>
