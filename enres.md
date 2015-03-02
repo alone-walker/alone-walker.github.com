@@ -6,8 +6,8 @@ title:  "resume"
 <ul class="s1">
   <li><h2>Skills</h2>
       <ul class="s2">
-          <li>c programming for embedded systems</li>
-          <li>linux kernel: vfs,  network stack, driver</li>
+          <li>c programming on linux system</li>
+          <li>linux kernel: vfs,  network stack(tcp, udp, sctp)</li>
           <li>network: tcp/ip protocol, socket</li>
           <li>opengl for 3D programming</li>
       </ul>
@@ -23,9 +23,17 @@ title:  "resume"
 
   <li><h2>Employment</h2>
       <ul class="s2">
+         <li><h3>Redhat 2011--2013</h3>
+	     <ul class="s3">
+	         <li>Network protocol of RHEL linux kernel test: Tcp, Udp, Sctp</li>
+		 <li>Skills: bash, python, c</li>
+             </ul>
+	 </li>
+
          <li><h3>MyriadMobileSoftware 2011--2013</h3>
 	     <ul class="s3">
-	         <li>Jbed java VM porting and maintenance for mobile system Skills: java vm, mobile operating system, j2me</li>
+	         <li>Jbed java VM porting and maintenance for mobile system</li>
+		 <li>Skills: java vm, mobile operating system, j2me</li>
              </ul>
 	 </li>
 
