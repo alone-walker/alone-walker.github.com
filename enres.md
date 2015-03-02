@@ -39,7 +39,8 @@ title:  "resume"
 
          <li><h3>NFS-China 2009--2011</h3>
 	     <ul class="s3">
-                 <li>Secured E-mail systems deployment and development E-mail filter plugin for postfix mail system Skills: linux c programming, rsa algorithm, openssl</li>
+                 <li>Secured E-mail systems deployment and development E-mail filter plugin for postfix mail system</li>
+		 <li>Skills: linux c programming, rsa algorithm, openssl</li>
              </ul>
 
          <li><h3>Shino-iTechnology 2005--2009</h3>
