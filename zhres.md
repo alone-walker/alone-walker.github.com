@@ -22,14 +22,14 @@ title:  "简历"
 
   <li><h2>工作经历</h2>
       <ul class="s2">
-          <li><h3>RedHat(红帽)&nbsp&nbsp&nbsp&nbsp&nbsp2014 -- 2015</h3>
+          <li><h3>RedHat(红帽)&nbsp&nbsp&nbsp&nbsp&nbsp2013 -- 2015</h3>
 	      <ul class="s3">
                   <li>公司产品为rhel linux操作系统,我主要负责rhel linux内核中网络协议部分(tcp,udp,sctp)的测试工作,熟悉了linux内核网络协议栈的实现,了解使用了各种网络命令工具,写过大量的自动化测试脚本,主要使用bash,python,c
 		  </li>
 	      </ul>
 	  </li>
 
-          <li><h3>Myriad(敏锐德)&nbsp&nbsp&nbsp&nbsp&nbsp2011 -- 2014</h3>
+          <li><h3>Myriad(敏锐德)&nbsp&nbsp&nbsp&nbsp&nbsp2011 -- 2013</h3>
 	      <ul class="s3">
 	          <li>公司产品为适用于低端手机平台的java虚拟机,我负责mtk手机平台的java虚拟机的移植开发与维护,主要工作内容有：虚拟机的内存资源管理,虚拟机与系统的通信及同步控制，虚拟机与系统的IO接口层,包括文件,网络,GPS等模块，工作中修复了大量的系统bug,期间用ruby做过一些html解析及文档下载的辅助工具
 		  </li>
