@@ -8,8 +8,8 @@ title:  "resume"
       <ul class="s2">
           <li>c programming on linux system</li>
           <li>linux kernel: vfs,  network stack(tcp, udp, sctp), file system</li>
-          <li>network: socket for c and python</li>
-          <li>opengl for 3D programming</li>
+          <li>network programming: socket for c and python</li>
+          <li>opengl programming</li>
       </ul>
   </li>
 
@@ -32,14 +32,14 @@ title:  "resume"
 
          <li><h3>MyriadMobileSoftware 2011--2013</h3>
 	     <ul class="s3">
-	         <li>Jbed java VM porting and maintenance for mobile system</li>
+	         <li>Jbed java VM porting and maintenance for MTK mobile system</li>
 		 <li>Skills: java vm, mobile operating system, j2me</li>
              </ul>
 	 </li>
 
          <li><h3>NFS-China 2009--2011</h3>
 	     <ul class="s3">
-                 <li>Secured E-mail systems deployment and development E-mail filter plugin for postfix mail system</li>
+                 <li>Secured E-mail systems deployment and development, E-mail filter plugin for postfix mail system</li>
 		 <li>Skills: linux c programming, rsa algorithm, openssl</li>
              </ul>
 
