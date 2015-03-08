@@ -70,7 +70,7 @@ title:  "resume"
 
   <li><h2>Github</h2>
       <ul class="s2">
-	  <li>github: <a href="http://www.github.com/wartalker/">www.github.com/wartalker</a></li>
+	  <li>github: <a href="http://www.github.com/wartalker/?tab=repositories">www.github.com/wartalker</a></li>
      </ul>
    </li>
 
