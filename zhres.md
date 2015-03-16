@@ -6,11 +6,11 @@ title:  "简历"
 <ul class="s1">
   <li><h2>技术特长</h2>
       <ul class="s2">
-          <li>多年Linux平台的c开发经验，熟悉make, gcc, gdb等开发工具
-          <li>网络编程,了解Linux内核的网络协议栈实现，对tcp,udp,sctp有深入了解
+          <li>多年Linux平台的c开发经验，熟悉make, gcc, gdb等开发工具</li>
+          <li>网络编程,了解Linux内核的网络协议栈实现，对tcp,udp,sctp有深入了解</li>
           <li>扎实的算法与数据结构基础</li>
-	  <li>熟悉多种脚本语言,工作中用过python,bash,ruby等脚本语言
-	  <li>html&ampcss, 了解web前端及后台开发
+	  <li>熟悉多种脚本语言,工作中用过python,bash,ruby等脚本语言</li>
+	  <li>html&ampcss, 了解web前端及后台开发</li>
       </ul>
   </li>
 
