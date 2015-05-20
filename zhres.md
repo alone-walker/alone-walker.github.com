@@ -16,7 +16,7 @@ title:  "简历"
 
    <li><h2>语言与工具</h2>
        <ul class="s2">
-	  <li>c, python, c++, java, ruby, lua, lisp</li>
+	  <li>c, python, c++, ruby, lua, lisp</li>
           <li>gcc, gdb, make, bash, vim, vc++</li>
 	</ul>
    </li>
@@ -62,11 +62,12 @@ title:  "简历"
   <li><h2>熟悉的开源项目</h2>
        <ul class="s2">
           <li>linux kernel: 熟悉内核的网络与文件系统部分的代码</li>
-          <li>lua: 熟悉脚本语言的实现</li>
           <li>stl: c++标准模版库</li>
           <li>xv6: MIT6.828教学操作系统</li>
+          <li>lua: 熟悉脚本语言的实现</li>
           <li>scapy: python实现的交互式的网络数据包处理程序
           <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
+	  <li>duilib: windows下的开源DirectUI界面库
        </ul>
   </li>
 
@@ -83,7 +84,6 @@ title:  "简历"
    </li>
 </ul>
 
-<br />
 <br />
 <br />
 <br />
