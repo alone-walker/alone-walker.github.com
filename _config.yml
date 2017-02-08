@@ -1,5 +1,5 @@
 name: K.I.S.S.
-pygments: true
+pygments: rouge
 github: github.com/alone-walker
 email: code4hack@gmail.com
 uname: code4hack
