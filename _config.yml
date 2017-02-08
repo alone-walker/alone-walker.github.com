@@ -1,5 +1,4 @@
 name: K.I.S.S.
-markdown: redcarpet
 pygments: true
 github: github.com/alone-walker
 email: code4hack@gmail.com
