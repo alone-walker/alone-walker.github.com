@@ -64,7 +64,7 @@ title:  "简历"
        <ul class="s2">
           <li>linux kernel: 熟悉内核的网络与文件系统部分的实现</li>
           <li>nginx: 有过模块开发经验</li>
-          <li>python库: scrapy flask requests scapy
+          <li>python库: scrapy flask requests scapy</li>
           <li>lua: 了解脚本语言的实现</li>
           <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
        </ul>
