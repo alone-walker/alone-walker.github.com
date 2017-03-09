@@ -229,6 +229,7 @@ ul.posts span {
 .s1 {
   list-style-type: none;
   margin-left: 2em;
+  margin-right: 2em;
 }
 
 .s1 > li {
