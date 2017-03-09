@@ -7,10 +7,9 @@ title:  "简历"
   <li><h2>技术特长</h2>
       <ul class="s2">
           <li>多年Linux平台的c开发经验，熟悉make, gcc, gdb等开发工具</li>
-          <li>网络编程,了解Linux内核的网络协议栈实现，对tcp,udp,sctp有深入了解</li>
-          <li>扎实的算法与数据结构基础</li>
-	  <li>熟悉多种脚本语言,工作中用过python,bash,lua等脚本语言</li>
-	  <li>html&ampcss, 了解web前端及后台开发</li>
+          <li>熟悉python语言,做过web开发,网络爬虫,测试开发等多种工作</li>
+	  <li>了解web前端及后台开发, 熟悉jquery,react</li>
+          <li>了解Linux内核的网络协议栈实现，对tcp,udp,sctp有深入了解</li>
       </ul>
   </li>
 
@@ -69,17 +68,15 @@ title:  "简历"
   <li><h2>熟悉的开源项目</h2>
        <ul class="s2">
           <li>linux kernel: 熟悉内核的网络与文件系统部分的实现</li>
-          <li>stl: c++标准模版库</li>
-          <li>xv6: MIT6.828教学操作系统</li>
+          <li>nginx: 有过模块开发经验</li>
           <li>lua: 了解脚本语言的实现</li>
-          <li>scapy: python实现的交互式的网络数据包处理程序</li>
           <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
-	  <li>duilib: windows下的开源DirectUI界面库</li>
        </ul>
   </li>
 
   <li><h2>个人项目</h2>
       <ul class="s2">
+          <li>个人网站: <a href="https://code4hack.me/">https://code4hack.me</a></li>
           <li>github: <a href="http://www.github.com/hack4code">www.github.com/hack4code</a></li>
       </ul>
   </li>
