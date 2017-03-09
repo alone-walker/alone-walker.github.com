@@ -72,9 +72,9 @@ title:  "简历"
           <li>stl: c++标准模版库</li>
           <li>xv6: MIT6.828教学操作系统</li>
           <li>lua: 了解脚本语言的实现</li>
-          <li>scapy: python实现的交互式的网络数据包处理程序
+          <li>scapy: python实现的交互式的网络数据包处理程序</li>
           <li>rfc: 阅读过大量的关于IP协议的rfc文档</li>
-	  <li>duilib: windows下的开源DirectUI界面库
+	  <li>duilib: windows下的开源DirectUI界面库</li>
        </ul>
   </li>
 
@@ -90,19 +90,3 @@ title:  "简历"
       </ul>
    </li>
 </ul>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
