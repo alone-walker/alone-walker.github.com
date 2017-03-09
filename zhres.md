@@ -22,7 +22,7 @@ title:  "简历"
 
   <li><h2>工作经历</h2>
       <ul class="s2">
-          <li><h3><pre>爱卡汽车网    2015 -- 2016</pre></h3>
+          <li><h3>爱卡汽车网&nbsp;&nbsp;&nbps&nbsp;2015 -- 2016</h3>
 	      <ul class="s3">
                   <li>公司系统运维开发，熟练使用bash、python开发自动化运维工具。熟悉openresty，并用lua、graphicsmagick实现了图片裁剪压缩模块。对公司监控系统进行了完善，添加了对交换机的监控
 		  </li>
